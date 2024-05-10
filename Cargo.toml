@@ -13,3 +13,7 @@ rand = "0.8.5"
 image = "0.25.1"
 num-complex = "0.4.6"
 surf = "2.3.2"
+tokio = {version = "1.36.0",features = ["full"]}
+fantoccini = {version="0.19.3",features = ["default","rustls-tls"]}
+select = "0.6.0"
+opener = "0.7.0"
