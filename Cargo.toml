@@ -1,0 +1,15 @@
+[package]
+name = "profile_builder"
+version = "0.1.0"
+author = "friskybear"
+edition = "2021"
+license = "LICENSE"
+readme = "README.md"
+repository = "https://github.com/friskybear/profile_builder"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.5"
+image = "0.25.1"
+num-complex = "0.4.6"
+surf = "2.3.2"
